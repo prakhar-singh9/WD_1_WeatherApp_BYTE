@@ -21,18 +21,6 @@ Built with plain HTML, CSS and JavaScript. No frameworks, no build step. Powered
 - ♿ **Accessible**: semantic HTML, ARIA roles for the toggle, visible focus styles, visually hidden form labels
 - 📱 **Responsive**: works from phones to desktops
 
-## 📸 Screenshots
-
-| Idle | Clear day | Week forecast |
-| :---: | :---: | :---: |
-| <img src="screenshots/idle.png" width="240" alt="Idle state"> | <img src="screenshots/clear-day.png" width="240" alt="Clear day, 24-hour forecast"> | <img src="screenshots/week-view.png" width="240" alt="5-day forecast"> |
-
-| Rain | Clear night | API key settings |
-| :---: | :---: | :---: |
-| <img src="screenshots/rain.png" width="240" alt="Rainy mood"> | <img src="screenshots/clear-night.png" width="240" alt="Clear night mood"> | <img src="screenshots/api-key.png" width="240" alt="API key panel"> |
-
-> Screenshots use sample data.
-
 ## 🚀 Getting Started
 
 ### 1. Get a free API key
